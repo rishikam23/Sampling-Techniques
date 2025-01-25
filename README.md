@@ -68,19 +68,18 @@ pip install numpy pandas scikit-learn xgboost
 ---
 
 ## Discussion
-```
+
 The results show that **Cluster Sampling** consistently performs well across multiple models. **Random Forest**, however, achieves perfect accuracy with both **Systematic Sampling** and **Cluster Sampling**. These findings suggest that the choice of sampling technique has a significant impact on model performance.
-```
+
 ---
 ## License
-```
+
 This project is released under the MIT License.
-```
+
 ---
 ## Contributors
 - Rishika Mathur
 
-```  
 For any queries, feel free to open an issue in the repository!
-```
+
 ---
