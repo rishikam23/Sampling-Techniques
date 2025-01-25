@@ -23,7 +23,7 @@ The dataset used is the **Credit Card Fraud Detection Dataset**, downloaded from
    - Random Forest
    - XGBoost
    - SVM
-6. Evaluate accuracy and determine the best sampling technique for each model.
+6. Evaluate **accuracy** and determine the best sampling technique for each model.
 
 ---
 
