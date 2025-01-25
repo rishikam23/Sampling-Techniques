@@ -5,7 +5,7 @@ This project applies **five different sampling techniques** to balance an imbala
 
 ## Dataset
 The dataset used is the **Credit Card Fraud Detection Dataset**, downloaded from the following GitHub repository:
-[Creditcard_data.csv](https://github.com/AnjulaMehto/Sampling_Assignment/blob/main/Creditcard_data.csv)
+[Creditcard_data.csv](Creditcard_data.csv)
 
 ### Steps Involved:
 1. Download and **preprocess** the dataset.
